@@ -1,1 +1,1 @@
-A small projuct for biginners for logic building.
+A small project for biginners for logic building.
